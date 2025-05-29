@@ -10,7 +10,6 @@ A [freeCodeCamp](https://www.freecodecamp.org/) project that recreates the iconi
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -50,10 +49,6 @@ No build tools or dependencies are required!
 ## Contributing
 
 Contributions and suggestions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
